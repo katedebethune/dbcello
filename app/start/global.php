@@ -192,7 +192,7 @@ HTML::macro('footer', function()
 					<div class="container">
 							<h4>&copy; Copyright '. date('Y') .', Kate de Bethune Studio&nbsp;&nbsp;&nbsp;&nbsp;
 							<a href="http://blacktie.co">Credits</a>&nbsp;&nbsp;&nbsp;&nbsp;
-							<a href="http://freefoodphotos.com">Photography</a></h4>
+							<a href="http://freeimages.com">Photography</a></h4>
 							
 					</div>
 			</div>
