@@ -22,7 +22,7 @@
 	    	<div id="home">
 				<header class="clearfix">
 						<p>Welcome to the Kate de Bethune Studio</p>
-						<h1><span class="glyphicon glyphicon-heart"></span></h1>
+						<h1><span class="glyphicon glyphicon-music"></span></h1>
 						<p>Expert Cello Instruction for All Ages</p>
 						<p>in Newton, MA</p>
 				</header>
