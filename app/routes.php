@@ -13,5 +13,15 @@
 
 Route::get('/', function()
 {
-	return View::make('hello');
+	//return "index route being called";
+	return View::make('index');
 });
+
+Route::get('/test', function() 
+{
+	return "test";
+});
+
+Route::get('/books', function() {
+    return 'Here are all the books...';
+}); 
