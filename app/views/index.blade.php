@@ -57,6 +57,9 @@
 		<!-- ==== SECTION DIVIDER1 - APPROACH -->
 		<section class="section-divider textdivider divider1">
 			<div class="container">
+			<h1></h1>
+				<!-- <hr> -->
+				<p></p>
 			</div><!-- container -->
 		</section><!-- section -->
 		
@@ -74,7 +77,7 @@
 						<p>Methods of the master cello pedagogues and the traditional cello repertoire form the basis for a practical approach which integrates hands-on problem solving, theoretical background, development of consistent practice habits, and frequent performance opportunities. For beginner and intermediate students this includes intensive foundation work using materials drawn from the Suzuki Method, Dotzauer, Lee, Kummer, and others. As students progress, they are introduced to increasingly challenging works selected to foster the development of stylistic, tonal, technical, and expressive abilities. </p>
 					</div><!-- col-lg-6 -->
 					<div class="col-lg-6">
-						<h3>Practicing & Expectations</h3>
+						<h3>Practicing</h3>
 						<p>Success studying an instrument requires a long-term commitment to the process of learning. Regular practice and music listening are fundamental to progress. Students need expert guidance to learn what it means to "practice"--how to explore, solve, and master the challenges presented in lessons in a self-directed way. Both student and parent are involved in establishing age-appropriate practice plans and goal setting. My role is to make the process of learning the cello as fun and rewarding as possible, helping students to develop self-confidence, independence, and a joyful approach to practicing and performance.</p>
 					</div><!-- col-lg-6 -->
 				</div><!-- row -->
@@ -115,12 +118,11 @@
 		
 		
 		<!-- ==== SECTION DIVIDER4 - BIO -->
-		<section class="section-divider textdivider divider1">
+		<section class="section-divider textdivider divider3">
 			<div class="container">
-				<!-- <h1>PEDAGOGY & APPROACH</h1> -->
+				<h1></h1>
 				<!-- <hr> -->
-				<!-- <p>Entrees, sides, soups, salads, sandwiches, and sweets for dining in or to go.</p>
-				-->
+				<p></p>
 			</div><!-- container -->
 		</section><!-- section -->
 		
@@ -156,7 +158,7 @@ I look forward to sharing my love of music-making with you and your children!</p
 			<div class="container">
 				<h1></h1>
 				<!-- <hr> -->
-				
+				<p></p>
 			</div><!-- container -->
 		</section><!-- section -->
 		
