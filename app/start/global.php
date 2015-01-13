@@ -103,7 +103,7 @@ HTML::macro('nav_open', function()
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="glyphicon glyphicon-heart" style="font-size:30px; color:#3498db;"></span>
+            <span class="glyphicon glyphicon-music" style="font-size:30px; color:#3498db;"></span>
           </button>
           <a class="navbar-brand hidden-xs hidden-sm" href="/#home"><span class="glyphicon glyphicon-music" style="font-size:18px; color:#3498db;"></span></a>
         </div>
@@ -146,8 +146,7 @@ HTML::macro('nav_index_non_auth', function()
             <li><a href="#home" class="smoothScroll">Home</a></li>
 			<li> <a href="#about" class="smoothScroll">About</a></li>
 			<li> <a href="#approach" class="smoothScroll">Approach</a></li>
-			<li> <a href="#schedule" class="smoothScroll">Schedule</a></li>
-			<li> <a href="#resources" class="smoothScroll">Resources</a></li>
+			<li> <a href="#schedule_resources" class="smoothScroll">Schedule & Resources</a></li>
 			<li> <a href="#bio" class="smoothScroll">Bio</a></li>
 			<li> <a href="#contact" class="smoothScroll"> Contact</a></li>
 			<!-- <li><a href=\'/signup\'>Sign up</a></li> -->

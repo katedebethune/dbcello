@@ -92,44 +92,27 @@
 		</section><!-- section -->
 
 		<!-- ==== SCHEDULE ==== -->
-		<div class="container"  data-name="schedule">
-			<div id="schedule">
+		<div class="container"  data-name="schedule_resources">
+			<div id="schedule_resources">
 			<br>
 				<!--div class="row white centered"-->
 				<div class="row">
-					<h1 class="centered">SCHEDULE</h1>
+					<h1 class="centered">SCHEDULE & RESOURCES</h1>
 					<hr>
 					<br>
 					<div class="col-lg-offset-2 col-lg-8">
-					<p>Fall lessons begin in the third week of September and conclude the during the second week of December. Spring lessons begin in the second week of January and conclude before Memorial Day. Fees, policies, and a detailed schedule will be made available upon request. Please contact the studio for more information. </p>
+						<p>Fall lessons begin in the third week of September and conclude the during the second week of December. Spring lessons begin in the second week of January and conclude before Memorial Day. Fees, policies, and a detailed schedule will be made available upon request. Please <a href="mailto:kdebethunecello@gmail.com?Subject=Cello Lesson Inquiry" target="_top"> contact me</a> for more information. </p>
+					</div><!-- col-lg -->
+					<div class="col-lg-offset-2 col-lg-8">
+						<h3>Instruments, Supplies, & Sheet Music</h3>
+						<p>Beginning students who do not have an instrument are advised to rent. Johnson Strings in Newton Center has built their reputation on providing high-quality, well-adjusted rentals to young students. Johnson's also offers a complete range of sheet music, strings, and accessories for students. Johnson Strings is located on John Street in Newton Centre (just off Route 9): 617-964-0954 / 1-800-359-9351. Spectrum Music (781-862-0088) in Lexington and Yesterday Services (617-547-8263) in Somerville both offer a wide range of sheet music and excellent service.</p>	
 					</div><!-- col-lg -->
 				</div><!-- row -->
 			</div><!-- id -->
 		</div><!-- container -->
 		<!-- END CATERING MENU -->
 		
-		<!-- ==== SECTION DIVIDER3 - RESOURCES -->
-		<section class="section-divider textdivider divider1">
-			<div class="container">
-			</div><!-- container -->
-		</section><!-- section -->
 		
-		
-		<!-- ==== RESOURCES ==== -->
-		<div class="container" data-name="resources">
-			<div id="resources">
-				<br>
-				<br>
-				<div class="row">
-					<h2 class="centered">RESOURCES</h2>
-					<hr>
-					<br>
-					<div class="col-lg-offset-2 col-lg-8">	
-						<p>Beginning students who do not have an instrument are advised to rent. Johnson Strings in Newton Center has built their reputation on providing high-quality, well-adjusted rentals to young students. Johnson's also offers a complete range of sheet music, strings, and accessories for students. Johnson Strings is located on John Street in Newton Centre (just off Route 9): 617-964-0954 / 1-800-359-9351. Spectrum Music (781-862-0088) in Lexington and Yesterday Services (617-547-8263) in Somerville both offer a wide range of sheet music and excellent service.</p>
-					</div><!-- col-lg -->
-				</div><!-- row -->
-			</div><!-- id -->
-		</div><!-- container -->
 		
 		<!-- ==== SECTION DIVIDER4 - BIO -->
 		<section class="section-divider textdivider divider1">
@@ -171,11 +154,9 @@ I look forward to sharing my love of music-making with you and your children!</p
 		<!-- ==== SECTION DIVIDER6 ==== -->
 		<section class="section-divider textdivider divider6">
 			<div class="container">
-				<h1>COME SEE US IN WEST NEWTON!</h1>
-				<hr>
-				<p>xxxx Washington Street, West Newton, MA 02465</p>
-				<p>617-xxx-xxxx</p>
-				<p><a class="icon icon-twitter" href="#"></a> | <a class="icon icon-facebook" href="#"></a></p>
+				<h1></h1>
+				<!-- <hr> -->
+				
 			</div><!-- container -->
 		</section><!-- section -->
 		
@@ -183,18 +164,21 @@ I look forward to sharing my love of music-making with you and your children!</p
 			<div id="contact">
 				<div class="row">
 				<br>
-					<h1 class="centered">THANKS FOR VISITING</h1>
+					<h1 class="centered">GET IN TOUCH WITH THE STUDIO</h1>
 					<hr>
 					<br>
-					<br>
+					<div class="col-lg-offset-2 col-lg-8">
+						<p>Introductory lessons are always free of charge. Email me today to set up your first lesson!</p>
+					</div><!-- col-lg -->
 					<div class="col-lg-4">
 						<h3>Contact Information</h3>
-						<p><span class="icon icon-home"></span> xxxx Washington Street, West Newton, MA 02465<br/>
-							<span class="icon icon-phone"></span> 617-xxx-xxxx <br/>
+						<p>
+							<!-- <span class="icon icon-home"></span> xxxx Washington Street, West Newton, MA 02465<br/> -->
+							<!-- <span class="icon icon-phone"></span> 617-xxx-xxxx <br/> -->
 							<!-- <span class="icon icon-mobile"></span> +34 59855 9853 <br/> -->
-							<span class="icon icon-envelop"></span> <a href="#"> info@jennys-kitchen.com</a> <br/>
-							<span class="icon icon-twitter"></span> <a href="#"> @jennys-kitchen </a> <br/>
-							<span class="icon icon-facebook"></span> <a href="#"> Jenny's Kitchen </a> <br/>
+							<span class="icon icon-envelop"></span> <a href="mailto:kdebethunecello@gmail.com?Subject=Cello Lesson Inquiry" target="_top"> kdebethunecello@gmail.com</a> <br/>
+							<!-- <span class="icon icon-twitter"></span> <a href="#"> @jennys-kitchen </a> <br/> -->
+							<!-- <span class="icon icon-facebook"></span> <a href="#"> Jenny's Kitchen </a> <br/> -->
 						</p>
 					</div><!-- col -->
 				</div><!-- row -->
