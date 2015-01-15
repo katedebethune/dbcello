@@ -13,3 +13,9 @@
     RewriteCond %{REQUEST_FILENAME} !-f
     RewriteRule ^ index.php [L]
 </IfModule>
+
+Redirect 301 /approach http://www.debethunecello.com/#approach
+
+Redirect 301 /sitemap http://www.debethunecello.com
+
+
