@@ -143,9 +143,8 @@ My formative studies took place at the New England Conservatory Preparatory Scho
  
 I have served as teaching assistant to Norman Fischer and as adjunct faculty at Brandeis University and the Phillips-Exeter Academy. I have also taught at Greenwood Music Camp (Cummington, MA), The Music School (Providence, RI), and in the Arlington public schools. In addition, I mentor cello students in the Providence-based Community Music Works program. Previously I maintained a private studio in Portsmouth, RI. 
  
-I have performed with the Rhode Island Philharmonic Orchestra, the Pro-Arte Chamber Orchestra, Indian Hill Music School, and numerous performing arts organizations throughout New England.
- 
-I am Suzuki certified and a member of the Suzuki Association of the Americas.
+I have performed with the Rhode Island Philharmonic Orchestra, Indian Hill Music, and numerous performing arts organizations throughout New England. 
+I am Suzuki certified, having trained with Nancy Hair at the Suzuki School of Newton,  and a member of the Suzuki Association of the Americas.
  
 I look forward to sharing my love of music-making with you and your children!</p>
 					</div><!-- col-lg -->
