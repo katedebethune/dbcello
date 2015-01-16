@@ -170,7 +170,7 @@ I look forward to sharing my love of music-making with you and your children!</p
 					<hr>
 					<br>
 					<div class="col-lg-offset-2 col-lg-8">
-						<p>Introductory lessons are always free of charge. Email me today to set up your first lesson!</p>
+						<p>Email today to set up your first lesson!</p>
 					</div><!-- col-lg -->
 					<div class="col-lg-4">
 						<h3>Contact Information</h3>
