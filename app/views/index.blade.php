@@ -104,11 +104,18 @@
 					<hr>
 					<br>
 					<div class="col-lg-offset-2 col-lg-8">
-						<p>Fall lessons begin in the third week of September and conclude the during the second week of December. Spring lessons begin in the second week of January and conclude before Memorial Day. Fees, policies, and a detailed schedule will be made available upon request. Please <a href="mailto:kdebethunecello@gmail.com?Subject=Cello Lesson Inquiry" target="_top"> contact me</a> for more information. </p>
+						<p>Fall lessons begin in the first of second week of September and conclude the during the second week of December. Spring lessons begin in the second week of January and conclude a few weeks before public school ends in June. Fees, policies, and a detailed schedule will be made available upon request. Please <a href="mailto:kdebethunecello@gmail.com?Subject=Cello Lesson Inquiry" target="_top"> contact me</a> for more information. </p>
 					</div><!-- col-lg -->
+
+					<div class="col-lg-offset-2 col-lg-8">
+						<h3>Studio Calendar</h3>
+						<iframe src="https://calendar.google.com/calendar/embed?title=debethune%20cello%20studio&amp;height=450&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=kdebethunecello%40gmail.com&amp;color=%2329527A&amp;ctz=America%2FNew_York" style="border-width:0" width="600" height="450" frameborder="0" scrolling="no"></iframe>
+					</div>
 					<div class="col-lg-offset-2 col-lg-8">
 						<h3>Instruments, Supplies, & Sheet Music</h3>
-						<p>Beginning students who do not have an instrument are advised to rent. Johnson Strings in Newton Center has built their reputation on providing high-quality, well-adjusted rentals to young students. Johnson's also offers a complete range of sheet music, strings, and accessories for students. Johnson Strings is located on John Street in Newton Centre (just off Route 9): 617-964-0954 / 1-800-359-9351. Spectrum Music (781-862-0088) in Lexington and Yesterday Services (617-547-8263) in Somerville both offer a wide range of sheet music and excellent service.</p>	
+						<p>Beginning students who do not have an instrument are advised to rent. <a href="http://www.johnsonstring.com">Johnson Strings</a> in Newton Upper Falls has built their reputation on providing high-quality, well-adjusted rentals to young students. Johnson's also offers a complete range of sheet music, strings, and accessories for students. Johnson Strings is located on Chestnut Street in Newton Upper Falls (just off Route 9): 617-964-0954 / 1-800-359-9351.</p>
+						<p><a href="https://www.sharmusic.com">Shar Music</a> is also a great mail-order source for rental instruments and supplies. They are located in Ann Arbor, Michigan.</p>
+						<p><a href="http://www.spectrum-music.com">Spectrum Music</a> (781-862-0088) in Lexington and <a href="http://www.yesterdayservice.com">Yesterday Services</a> (617-547-8263) in Somerville both offer a wide range of sheet music and excellent service.</p>	
 					</div><!-- col-lg -->
 				</div><!-- row -->
 			</div><!-- id -->
