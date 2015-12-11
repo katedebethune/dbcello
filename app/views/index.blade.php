@@ -44,7 +44,7 @@
 				
 					<div class="col-lg-6">
 						<h3>Private Lessons</h3>
-						<p>Students receive 13 to 15 lessons per semester. Beginner and intermediate level students take 30 or 45 minute lessons, while advanced intermediate and advanced students take 60 minute lessons. The private lesson provides time for individualized instruction on technique, tone production, style, musicality, and theory. Lessons are structured around exercises, studies, and solo pieces that create and then build upon a solid physical and intellectual approach. They also involve intensive, interactive, age-appropriate problem solving. Clear practice goals and guidance are provided to both student and parent to ensure success from week to week and consistent progress throughout the year.</p>
+						<p>Students receive approximately 15 lessons per semester in the fall and 20 lessons in the spring. Beginner and intermediate level students take 30 or 45 minute lessons, while advanced intermediate and advanced students take 60 minute lessons. The private lesson provides time for individualized instruction on technique, tone production, style, musicality, and theory. Lessons are structured around exercises, studies, and solo pieces that create and then build upon a solid physical and intellectual approach. They also involve intensive, interactive, age-appropriate problem solving. Clear practice goals and guidance are provided to both student and parent to ensure success from week to week and consistent progress throughout the year.</p>
 					</div><!-- col-lg-6 -->
 					<div class="col-lg-6">
 						<h3>Group Classes, Recitals, and Other Activities</h3>
@@ -74,7 +74,7 @@
 					<hr>
 					<br>
 					<div class="col-lg-6">
-						<p>Methods of the master cello pedagogues and the traditional cello repertoire form the basis for a practical approach which integrates hands-on problem solving, theoretical background, development of consistent practice habits, and frequent performance opportunities. For beginner and intermediate students this includes intensive foundation work using materials drawn from the Suzuki Method, Dotzauer, Lee, Kummer, and others. As students progress, they are introduced to increasingly challenging works selected to foster the development of stylistic, tonal, technical, and expressive abilities. </p>
+						<p>Methods of the master cello pedagogues and the traditional cello repertoire form the basis for a practical approach which integrates hands-on problem solving, theoretical background, development of consistent practice habits, and performance opportunities. For beginner and intermediate students this includes intensive foundation work using materials drawn from the Suzuki Method, Sassmannshaus, Dotzauer, Lee, Kummer, and others. As students progress, they are introduced to increasingly challenging works selected to foster the development of stylistic, tonal, technical, and expressive abilities. </p>
 					</div><!-- col-lg-6 -->
 					<div class="col-lg-6">
 						<h3>Practicing</h3>
